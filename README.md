@@ -15,7 +15,6 @@ Essa é a minha foi a minha primeira API REST criada utilizando **autenticação
 ## Sumário
 
 - [Instalação](#instala%C3%A7%C3%A3o)
-- [Configuração](#configura%C3%A7%C3%A3o)
 - [Uso](#uso)
 - [Endpoints da API](#endpoints-da-api)
 - [Autenticação](#autentica%C3%A7%C3%A3o)
@@ -65,8 +64,13 @@ A API disponibiliza os seguintes endpoints:
 
 - `GET /produto` - Retorna a lista de produtos (disponível para usuários autenticados).
 - `POST /produto` - Cadastra um novo produto (**apenas para ADMIN**).
+- { "name": " ", price": " " }
+ 
 - `POST /auth/login` - Realiza o login.
+- { "username": " ", password": " " }
+   
 - `POST /auth/registrar` - Registra um novo usuário.
+- { "username": " ", "password": " ", "role": "ADMIN ou USER" }
 
 ---
 
