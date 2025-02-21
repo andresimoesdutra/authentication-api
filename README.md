@@ -18,7 +18,6 @@ Essa é a minha foi a minha primeira API REST criada utilizando **autenticação
 - [Uso](#uso)
 - [Endpoints da API](#endpoints-da-api)
 - [Autenticação](#autentica%C3%A7%C3%A3o)
-- [Banco de Dados](#banco-de-dados)
 
 ---
 
