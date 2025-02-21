@@ -27,7 +27,7 @@ Essa é a minha foi a minha primeira API REST criada utilizando **autenticação
 ### 1. Clonar o repositório:
 
 ```sh
- git clone https://github.com/usuario/auth-api.git
+ git clone https://github.com/andresimoesdutra/authentication-api.git
 ```
 
 ### 2. Instalar dependências com Maven:
@@ -84,7 +84,3 @@ A API utiliza **Spring Security** para controle de acesso. Os seguintes roles es
 Para acessar endpoints protegidos, forneça as credenciais de autenticação no cabeçalho da requisição.
 
 ---
-
-## Banco de Dados
-
-O projeto utiliza **MySQL** como banco de dados.
