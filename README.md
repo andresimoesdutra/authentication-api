@@ -26,7 +26,7 @@ Essa é a minha foi a minha primeira API REST criada utilizando **autenticação
 ### 1. Clonar o repositório:
 
 ```sh
- git clone https://github.com/andresimoesdutra/authentication-api.git
+ git clone https://github.com/andresimoesdutra/authentication-api-java.git
 ```
 
 ### 2. Instalar dependências com Maven:
